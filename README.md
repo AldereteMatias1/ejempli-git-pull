@@ -1,2 +1,2 @@
 # ejempli-git-pull
-Repositorio para practicar el comando git pull
+Este es el cambio realizado en el primer commit, prueba de git pull
